@@ -1,0 +1,10 @@
+H:\computing\Programing\Box\BoxGame\BoxGame\bin\Debug\BoxGame.exe.config
+H:\computing\Programing\Box\BoxGame\BoxGame\bin\Debug\BoxGame.exe
+H:\computing\Programing\Box\BoxGame\BoxGame\bin\Debug\BoxGame.pdb
+H:\computing\Programing\Box\BoxGame\BoxGame\obj\Debug\BoxGame.csprojAssemblyReference.cache
+H:\computing\Programing\Box\BoxGame\BoxGame\obj\Debug\BoxGame.BoxGame.resources
+H:\computing\Programing\Box\BoxGame\BoxGame\obj\Debug\BoxGame.Properties.Resources.resources
+H:\computing\Programing\Box\BoxGame\BoxGame\obj\Debug\BoxGame.csproj.GenerateResource.cache
+H:\computing\Programing\Box\BoxGame\BoxGame\obj\Debug\BoxGame.csproj.CoreCompileInputs.cache
+H:\computing\Programing\Box\BoxGame\BoxGame\obj\Debug\BoxGame.exe
+H:\computing\Programing\Box\BoxGame\BoxGame\obj\Debug\BoxGame.pdb
